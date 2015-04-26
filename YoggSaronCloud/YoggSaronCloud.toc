@@ -1,0 +1,10 @@
+﻿## Interface: 30300
+## Title: YoggSaronCloud
+## Author: Chaouki Dhib (Krondra)
+## Version: 0.1
+## Notes: Cloud announcer for the Yogg Saron encounter.
+## eMail: chaodhib@gmail.com
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: isActive
+YoggSaronCloud.lua
