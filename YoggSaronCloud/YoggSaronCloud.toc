@@ -2,9 +2,9 @@
 ## Title: YoggSaronCloud
 ## Author: Chaouki Dhib (Krondra)
 ## Version: 0.1
-## Notes: Cloud announcer for the Yogg Saron encounter.
+## Notes: Cloud announcer for the Yogg Saron encounter in Ulduar.
 ## eMail: chaodhib@gmail.com
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
-## SavedVariables: isActive
+## SavedVariables: YSC_isActive, YSC_channel
 YoggSaronCloud.lua
